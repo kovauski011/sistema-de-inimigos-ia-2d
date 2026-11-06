@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pack AI 2D",
+            "request": "launch",
+            "mainClass": "pack.engine.Window"
+        }
+    ]
+}
